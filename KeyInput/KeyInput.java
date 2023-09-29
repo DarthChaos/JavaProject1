@@ -23,5 +23,7 @@ public class KeyInput {
     res = num1 + num2;
 
     System.out.println(name + ", the result is: " + res);
+
+    keyboardInput.close();
   }
 }
