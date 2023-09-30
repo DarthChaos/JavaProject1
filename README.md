@@ -37,3 +37,7 @@ How to use a more complex condition structure which allows to control data direc
 # For
 
 How to use a for loop
+
+# While
+
+How to use a while loop
