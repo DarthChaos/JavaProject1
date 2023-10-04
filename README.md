@@ -1,6 +1,6 @@
 # JavaProject1
 
-Java Starter course
+Java Starter course.
 
 # 1. Indentation, Compilation and Execution.
 
@@ -28,7 +28,7 @@ How to get in data through the keyboard with Scanner class in console.
 
 # SubConditions
 
-How to create a more complex structures of conditions with if-else-if
+How to create a more complex structures of conditions with if-else-if.
 
 # Switch
 
@@ -36,12 +36,16 @@ How to use a more complex condition structure which allows to control data direc
 
 # For
 
-How to use a for loop
+How to use a for loop.
 
 # While
 
-How to use a while loop
+How to use a while loop.
 
 # Do-While
 
-How to use a do-while loop
+How to use a do-while loop.
+
+# Equals
+
+How to use the equals method to compare if two strings are equals.
