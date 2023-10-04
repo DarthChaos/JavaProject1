@@ -65,3 +65,7 @@ How to create a Dynamic Array.
 # Matrix
 
 How to create Multidimensional Arrays.
+
+# Dynamic Matrix
+
+How to create a Multidimensional Dynamic Array.
