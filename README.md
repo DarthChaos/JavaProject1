@@ -57,3 +57,7 @@ How to get the length of a String and how to check if a String has another into.
 # Array
 
 How to create an Array and the basics.
+
+# Dynamic Array
+
+How to create a Dynamic Array.
