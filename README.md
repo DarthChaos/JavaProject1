@@ -49,3 +49,7 @@ How to use a do-while loop.
 # Equals
 
 How to use the equals method to compare if two strings are equals.
+
+# Length/Substring
+
+How to get the length of a String and how to check if a String has another into.
