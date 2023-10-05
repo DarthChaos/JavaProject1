@@ -93,3 +93,7 @@ How to use a JTextField to create text inputs.
 # 23. JTextArea
 
 How to create a JTextArea.
+
+# 24. JScrollPane
+
+How to scroll a component in Java.
