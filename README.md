@@ -85,3 +85,7 @@ How to use a JButton with its label and event.
 # 21. Buttons and Labels
 
 Having in mind the last two modules. How can I join JButton and JLabel in the same swing JFrame.
+
+# 22. JTextField
+
+How to use a JTextField to create text inputs.
