@@ -77,3 +77,7 @@ How to create a graphic interface using Swing library.
 # JLabel
 
 How to use Swing JLabel object to create labels on the graphic interface.
+
+# JButton
+
+How to use a JButton with its label and event.
