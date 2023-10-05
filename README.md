@@ -73,3 +73,7 @@ How to create a Multidimensional Dynamic Array.
 # Swing Interfaces
 
 How to create a graphic interface using Swing library.
+
+# JLabel
+
+How to use Swing JLabel object to create labels on the graphic interface.
