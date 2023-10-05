@@ -89,3 +89,7 @@ Having in mind the last two modules. How can I join JButton and JLabel in the sa
 # 22. JTextField
 
 How to use a JTextField to create text inputs.
+
+# 23. JTextArea
+
+How to create a JTextArea.
