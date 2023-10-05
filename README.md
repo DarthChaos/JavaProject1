@@ -97,3 +97,7 @@ How to create a JTextArea.
 # 24. JScrollPane
 
 How to scroll a component in Java.
+
+# 25. Text from Text Field to Text Area (TF2TA)
+
+How to send a text from the text field component to a text area component.
