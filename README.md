@@ -26,58 +26,62 @@ Basic condition and how to use a single if-else.
 
 How to get in data through the keyboard with Scanner class in console.
 
-# SubConditions
+# 7. SubConditions
 
 How to create a more complex structures of conditions with if-else-if.
 
-# Switch
+# 8. Switch
 
 How to use a more complex condition structure which allows to control data direction into our application.
 
-# For
+# 9. For
 
 How to use a for loop.
 
-# While
+# 10. While
 
 How to use a while loop.
 
-# Do-While
+# 11. Do-While
 
 How to use a do-while loop.
 
-# Equals
+# 12. Equals
 
 How to use the equals method to compare if two strings are equals.
 
-# Length/Substring
+# 13. Length/Substring
 
 How to get the length of a String and how to check if a String has another into.
 
-# Array
+# 14. Array
 
 How to create an Array and the basics.
 
-# Dynamic Array
+# 15. Dynamic Array
 
 How to create a Dynamic Array.
 
-# Matrix
+# 16. Matrix
 
 How to create Multidimensional Arrays.
 
-# Dynamic Matrix
+# 17. Dynamic Matrix
 
 How to create a Multidimensional Dynamic Array.
 
-# Swing Interfaces
+# 18. Swing Interfaces
 
 How to create a graphic interface using Swing library.
 
-# JLabel
+# 19. JLabel
 
 How to use Swing JLabel object to create labels on the graphic interface.
 
-# JButton
+# 20. JButton
 
 How to use a JButton with its label and event.
+
+# 21. Buttons and Labels
+
+Having in mind the last two modules. How can I join JButton and JLabel in the same swing JFrame.
